@@ -5,13 +5,12 @@
 <br/>
 
 ### 😝 About Me 😝
-```
 🥔 감자같은 개발자 🥔
 
-어떤 음식에 넣어도 잘 어울리는 감자처럼, 누구와도 잘 어울리는 친화력을 보유하고
-샐러드부터 튀김까지 무엇이든 될 수 있는 감자처럼, 무엇이든 맡은 업무를 잘 수행해내며
+어떤 음식에 넣어도 잘 어울리는 감자처럼, 누구와도 잘 어울리는 친화력을 보유하고<br/>
+샐러드부터 튀김까지 무엇이든 될 수 있는 감자처럼, 무엇이든 맡은 업무를 잘 수행해내며<br/>
 항상 말하는 감자라고 생각하며, 끊임없이 배우면서 살고자 하는 개발자입니다!
-```
+
 <a href="https://velog.io/@mouse0429"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/></a>
 <a href="mailto:devtato0429@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmouse0429%2Fhit-counter&count_bg=%23FFCF00&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/mouse0429)
