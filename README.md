@@ -13,7 +13,6 @@
 
 <a href="https://velog.io/@mouse0429"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/></a>
 <a href="mailto:devtato0429@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmouse0429%2Fhit-counter&count_bg=%23FFCF00&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/mouse0429)
 
 
 <br/><br/>
