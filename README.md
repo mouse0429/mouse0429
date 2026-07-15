@@ -37,7 +37,6 @@
 
 ### 📝 Problem Solving 📝
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mouse0429)](https://solved.ac/mouse0429)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=mouse0429&theme=dark)
 <br/><br/>
 
 </div>
